@@ -1,19 +1,37 @@
-# 👋 Shubham
+# Hello, I'm Shubham. 👋
 
-## ℹ️ About Me
+I'm a passionate Data Science student currently pursuing my BS degree at the Indian Institute of Technology Madras. My journey in technology has led me to explore various domains and acquire skills in different areas.
 
-I am a passionate student with a keen interest in Data Science, Machine Learning, Artificial Intelligence, DevOps, and Web Development. I am constantly 📚 learning and 🌐 exploring new technologies in these fields.
+## About Me
 
-## 🚀 Skills
+- 📚 Studying Data Science at [Indian Institute of Technology Madras]
+- 🌐 Exploring diverse technologies and always eager to learn something new
+- ✨ Enthusiastic about Web Development, DevOps, and Data Science
 
-- **Data Science:** Data analysis, data visualization, machine learning algorithms
-- **Machine Learning:** Deep learning, natural language processing, computer vision
-- **Artificial Intelligence:** AI ethics, reinforcement learning, chatbots
-- **DevOps:** Continuous integration, containerization, automation
-- **Web Development:** Frontend (HTML/CSS/JavaScript), backend (Node.js, Python), full-stack development
+## Tech Stack
 
-## 📫 Contact Me
+### Web Development
+- HTML, CSS, JavaScript
+- React.js
 
-- GitHub: [Your GitHub Profile](https://github.com/shubhamdevs)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/suvm//)
-- Email: suvm.dev@gmail.com
+### DevOps
+- Linux
+- Docker
+- Kubernetes
+- Google Cloud Platform
+
+### Data Science & Machine Learning
+- Python
+- Pandas
+- Matplotlib, Seaborn
+- Machine Learning
+
+## Let's Connect!
+
+Feel free to connect with me on social media platforms or check out my repositories to see what I've been working on.
+
+- GitHub: [github.com/yourusername](https://github.com/shubhamdevs)
+- Twitter: [twitter.com/yourusername](https://twitter.com/suvm.devs)
+- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/suvm)
+
+Looking forward to collaborating and learning together! 🚀
