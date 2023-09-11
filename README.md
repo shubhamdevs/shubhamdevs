@@ -16,4 +16,4 @@ I am a passionate student with a keen interest in Data Science, Machine Learning
 
 - GitHub: [Your GitHub Profile](https://github.com/shubhamdevs)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/suvm//)
-- Email: your.email@example.com
+- Email: suvm.dev@gmail.com
