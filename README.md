@@ -1,10 +1,10 @@
 # Hello, I'm Shubham. 👋
 
-I'm a passionate Data Science student currently pursuing my BS degree at the Indian Institute of Technology Madras. My journey in technology has led me to explore various domains and acquire skills in different areas.
+My journey in technology has led me to explore various domains and acquire skills in different areas.
 
 ## About Me
 
-- 📚 Studying Data Science at [Indian Institute of Technology Madras]
+
 - 🌐 Exploring diverse technologies and always eager to learn something new
 - ✨ Enthusiastic about Web Development, DevOps, and Data Science
 
